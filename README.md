@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Human-vs-Computer
+# Tic-Tac-Toe-Human-vs-AI
